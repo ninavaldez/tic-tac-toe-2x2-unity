@@ -25,6 +25,7 @@
 	d. Prof. Chris Boyd's classes (walking is through the initial assignment instructions and help session part of class)
 	e. Aid with button: https://www.youtube.com/watch?v=WRoIw3ktZTE
 	f. Artwork: https://bangbloom.itch.io/pickaxe-shield-chest-hammer-bottle-knife-cartoon?download
+	g. Prof. Chris Boyd's original Tic-Tac-Two-2x2 Unity (as a starting point)
 
 
 5.) Instructions for running the assignment
